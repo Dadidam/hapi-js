@@ -1,0 +1,26 @@
+{
+  "name": "hapi-js",
+  "version": "1.0.0",
+  "description": "Hapi framework project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dadidam/hapi-js.git"
+  },
+  "keywords": [
+    "hapi",
+    "js"
+  ],
+  "author": "Ilia Vorontcov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dadidam/hapi-js/issues"
+  },
+  "homepage": "https://github.com/Dadidam/hapi-js#readme",
+  "dependencies": {
+    "hapi": "^16.6.0"
+  }
+}
